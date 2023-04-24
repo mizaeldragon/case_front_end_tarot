@@ -1,1 +1,3 @@
-# case_front_end_tarot
+Caso Final curso Labenu ( case tarot)
+
+Feitco em JavaScript, HTML, CSS
